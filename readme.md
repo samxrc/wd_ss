@@ -8,13 +8,17 @@
 
 # ---Building steps for reference
 ~ clone sample report 
-~ create equivalent VBA which is not supported on google spreadsheet via javascript build picklist for stock, put/call
+
+~ create equivalent VBA which is not supported on google spreadsheet using javascript. Build picklist for stock, put/call
+
 ~ build button to create new sheet 
+
 ~ summary page for us market 
  
 
 # pending feature 
 ~ Auto update current price 
+
 ~ Cronjob to email report summary 
 
 
