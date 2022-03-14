@@ -16,10 +16,11 @@
 ~ summary page for us market 
  
 
-# pending feature 
-~ Auto update current price 
+# pending wish list  feature 
+~ Auto update current price , from config page
+~ auto update summary page when new ss created ,get info from config page
+~ Button to email out weekly report , get info from config page
 
-~ Cronjob to email report summary 
 
 
 
