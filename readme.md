@@ -21,11 +21,11 @@ Online Google spreadsheet cloned from 2013 Excel with VBA micro
 
 
 # Reference 
-google Api 
+Google Api 
 https://developers.google.com/apps-script/reference/calendar/calendar-app
 https://developers.google.com/apps-script/reference/calendar/calendar-app#getCalendarById(String)
 
-## wish list ,pending feature
+### Pending wish list , feature
 ~ Auto update summary page when new ss created
 
 ~ Button to email out weekly report 
