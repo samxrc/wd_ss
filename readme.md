@@ -1,5 +1,5 @@
 # WD Google Spreadsheet 
-Online Google spreadsheet cloned from 2013 Excel with VBA micro using Javascript
+Online Google spreadsheet cloned from 2013 Excel using Javascript
 
 ## 3 steps to access a shared Google Spreadsheet attached with a script
 # 1) The owner shared out the Spreadsheet with you via email
