@@ -1,7 +1,7 @@
 # WD Google Spreadsheet 
 Online Google spreadsheet cloned from 2013 Excel with VBA micro using Javascript
 
-## 3 steps to access a shared Google Spreadsheet come with script
+## 3 steps to access a shared Google Spreadsheet attached with a script
 # 1) The owner shared out the Spreadsheet with you via email
 ![sample splunk output](https://github.com/samxrc/wd_ss/blob/master/1_openemail.png?raw=true)
 
@@ -10,7 +10,7 @@ Online Google spreadsheet cloned from 2013 Excel with VBA micro using Javascript
 
 ![sample splunk output](https://github.com/samxrc/wd_ss/blob/master/3_choose_ur_account.png?raw=true)
 
-# 3) Trust & Allow ,done 
+# 3) Trust & Allow App that come with Spreadsheet to run,Done 
 ![sample splunk output](https://github.com/samxrc/wd_ss/blob/master/4_advanced.png?raw=true)
 ![sample splunk output](https://github.com/samxrc/wd_ss/blob/master/5_trust.png?raw=true)
 ![sample splunk output](https://github.com/samxrc/wd_ss/blob/master/6_allow.png?raw=true)
