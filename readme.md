@@ -1,7 +1,8 @@
 ![sample splunk output](https://git.soma.salesforce.com/sfoo/casam/blob/master/app/splunk_aus22.png?raw=true)
 
 
-# ----convert Excel with VBA micro to Google spreadsheet 
+# WD Google Spreadsheet 
+Appscript to convert 2013 Excel with VBA micro to Google spreadsheet
 
 ## Steps to Access my report using Google Spreadsheet
 # 1) Put up a request to owner to share the Spreadsheet with you
