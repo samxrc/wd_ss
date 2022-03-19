@@ -27,9 +27,13 @@ https://developers.google.com/apps-script/reference/calendar/calendar-app#getCal
 
 ### Pending wish list , feature
 ~ Auto update current price for counters? done
+
 ~ Auto update summary page when new ss created? using button
+
 ~ formula to updated counter current price ? done
+
 ~ Auto update overview page when new ss created? using button 
+
 ~ Button to email out weekly report once update done? 
 
 
