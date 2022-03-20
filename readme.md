@@ -22,6 +22,8 @@ Online Google spreadsheet cloned from 2013 Excel using Javascript
 
 # Reference 
 Google Api 
+https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app
+
 https://developers.google.com/apps-script/reference/calendar/calendar-app
 https://developers.google.com/apps-script/reference/calendar/calendar-app#getCalendarById(String)
 
