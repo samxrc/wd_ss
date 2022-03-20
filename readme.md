@@ -34,7 +34,7 @@ https://developers.google.com/apps-script/reference/calendar/calendar-app#getCal
 
 ~ Auto update overview page when new ss created using button, done 
 
-~ udpate strike price when paste in BABA 11MAR22 97.0,done
+~ udpate strike price when paste in BABA 11MAR22 97.0 P/C,done
 
 ~ Button to email out weekly report once update ??
 
