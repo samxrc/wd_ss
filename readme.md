@@ -26,15 +26,19 @@ https://developers.google.com/apps-script/reference/calendar/calendar-app
 https://developers.google.com/apps-script/reference/calendar/calendar-app#getCalendarById(String)
 
 ### Pending wish list , feature
-~ Auto update current price for counters? done
+~ Auto update current price for counters, done
 
-~ Auto update summary page when new ss created? using button
+~ Auto update summary page when new ss created using button, done
 
-~ formula to updated counter current price ? done
+~ formula to updated counter current price, done
 
-~ Auto update overview page when new ss created? using button 
+~ Auto update overview page when new ss created using button, done 
 
-~ Button to email out weekly report once update done? 
+~ udpate strike price when paste in BABA 11MAR22 97.0,done
+
+~ Button to email out weekly report once update ??
+
+~ Alert user when hit target price ??
 
 
 
